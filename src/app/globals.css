@@ -18,6 +18,16 @@
   font-weight: bolder;
 }
 
+.nav{
+  width:100%;
+}
+
+.ul{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
 .header , .footer{
   display: flex;
   justify-content: center;
